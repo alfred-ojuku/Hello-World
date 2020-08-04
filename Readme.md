@@ -1,3 +1,3 @@
 # demo
 
-my first readgit repository
+my first readme git file
